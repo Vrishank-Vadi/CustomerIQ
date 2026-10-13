@@ -1,0 +1,12 @@
+Subject: It's been a while, $first_name
+
+Hi $first_name,
+
+We've missed you. Whenever you're ready to return, your $membership_tier membership is here for you.
+
+Take a look at what's new, or reply to let us know how we can make your next visit better.
+
+Warmly,
+The $brand team
+
+Demo draft only. Add your preference-center link and business details before using a template outside this application.

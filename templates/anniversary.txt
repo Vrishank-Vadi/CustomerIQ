@@ -1,0 +1,12 @@
+Subject: Celebrating your membership anniversary, $first_name
+
+Hi $first_name,
+
+Your $anniversary_years-year membership anniversary is coming up! Thank you for being part of our community as a $membership_tier member.
+
+We appreciate every visit and look forward to the next chapter together.
+
+With thanks,
+The $brand team
+
+Demo draft only. Add your preference-center link and business details before using a template outside this application.

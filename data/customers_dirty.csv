@@ -1,0 +1,631 @@
+customer_id,first_name,last_name,email,membership_tier,join_date,last_purchase_date,total_spend,purchase_count,marketing_opt_in,updated_at,country
+CQ00001,Member001,Example,member00001@example.com,Bronze,2026-02-25,2026-10-06,712.79,23,True,2026-10-06,United States
+CQ00002,Member002,Example,member00002@example.com,Bronze,2026-04-16,2026-05-14,267.18,13,True,2026-05-14,Canada
+CQ00003,Member003,Example,member00003@example.com,Silver,2023-12-12,,0.0,0,True,2023-12-12,Germany
+CQ00004,Member004,Example,member00004@example.com,Silver,2024-06-04,2026-06-22,1685.17,14,True,2026-06-22,United States
+CQ00005,Member005,Example,member00005@example.com,Bronze,2025-11-19,2026-03-10,303.54,10,False,2026-03-10,United Kingdom
+CQ00006,Member006,Example,member00006@example.com,Bronze,2026-03-16,2026-09-19,975.7,12,True,2026-09-19,Germany
+CQ00007,Member007,Example,member00007@example.com,Silver,2025-04-18,2026-09-20,816.01,23,True,2026-09-20,Australia
+CQ00008,Member008,Example,member00008@example.com,Gold,2026-05-03,2026-05-24,1218.38,9,True,2026-05-24,United Kingdom
+CQ00009,Member009,Example,member00009@example.com,Silver,2025-09-13,2026-09-07,115.86,1,True,2026-09-07,United States
+CQ00010,Member010,Example,member00010@example.com,Bronze,2025-06-22,2026-08-22,770.83,12,False,2026-08-22,United Kingdom
+CQ00011,Member011,Example,member00011@example.com,Bronze,2025-11-12,2026-04-06,379.7,11,True,2026-04-06,United States
+CQ00012,Member012,Example,member00012@example.com,Bronze,2025-10-26,2026-01-12,1155.94,23,True,2026-01-12,United Kingdom
+CQ00013,Member013,Example,member00013@example.com,Gold,2025-07-19,2026-04-29,980.48,26,True,2026-04-29,United States
+CQ00014,Member014,Example,member00014@example.com,Bronze,2025-01-03,2026-03-21,692.79,8,True,2026-03-21,Germany
+CQ00015,Member015,Example,member00015@example.com,Silver,2025-01-05,2026-06-26,2594.02,20,False,2026-06-26,Australia
+CQ00016,Member016,Example,member00016@example.com,Bronze,2025-12-23,2026-05-30,232.98,4,True,2026-05-30,United Kingdom
+CQ00017,Member017,Example,member00017@example.com,Bronze,2024-05-17,2025-12-18,1120.62,12,True,2025-12-18,Canada
+CQ00018,Member018,Example,member00018@example.com,Gold,2023-12-03,2026-02-02,354.98,2,True,2026-02-02,Canada
+CQ00019,Member019,Example,member00019@example.com,Bronze,2025-11-18,2026-03-10,831.41,19,True,2026-03-10,Australia
+CQ00020,Member020,Example,member00020@example.com,Gold,2023-10-24,2026-06-06,509.88,17,False,2026-06-06,United States
+CQ00021,Member021,Example,member00021@example.com,Bronze,2025-04-13,2025-11-18,480.42,10,True,2025-11-18,Australia
+CQ00022,Member022,Example,member00022@example.com,Gold,2026-10-05,2026-10-08,232.26,2,True,2026-10-08,United States
+CQ00023,Member023,Example,member00023@example.com,Silver,2025-02-07,2025-11-19,623.23,16,True,2025-11-19,Canada
+CQ00024,Member024,Example,member00024@example.com,Bronze,2023-10-21,2026-10-12,276.82,19,True,2026-10-12,United Kingdom
+CQ00001,Member001,Example, MEMBER00001@EXAMPLE.COM ,bronze,2026-02-25,2026-10-06,890.99,23,True,2026-10-12,United States
+CQ00002,Member002,Example, MEMBER00002@EXAMPLE.COM ,bronze,2026-04-16,2026-05-14,333.97,13,True,2026-10-12,Canada
+CQ00003,Member003,Example, MEMBER00003@EXAMPLE.COM ,silver,2023-12-12,,0.0,0,True,2026-10-12,Germany
+CQ00004,Member004,Example, MEMBER00004@EXAMPLE.COM ,silver,2024-06-04,2026-06-22,2106.46,14,True,2026-10-12,United States
+CQ00005,Member005,Example, MEMBER00005@EXAMPLE.COM ,bronze,2025-11-19,2026-03-10,379.43,10,False,2026-10-12,United Kingdom
+CQ00006,Member006,Example, MEMBER00006@EXAMPLE.COM ,bronze,2026-03-16,2026-09-19,1219.62,12,True,2026-10-12,Germany
+CQ00007,Member007,Example, MEMBER00007@EXAMPLE.COM ,silver,2025-04-18,2026-09-20,1020.01,23,True,2026-10-12,Australia
+CQ00008,Member008,Example, MEMBER00008@EXAMPLE.COM ,gold,2026-05-03,2026-05-24,1522.97,9,True,2026-10-12,United Kingdom
+CQ00009,Member009,Example, MEMBER00009@EXAMPLE.COM ,silver,2025-09-13,2026-09-07,144.83,1,True,2026-10-12,United States
+CQ00010,Member010,Example, MEMBER00010@EXAMPLE.COM ,bronze,2025-06-22,2026-08-22,963.54,12,False,2026-10-12,United Kingdom
+CQ00011,Member011,Example, MEMBER00011@EXAMPLE.COM ,bronze,2025-11-12,2026-04-06,474.63,11,True,2026-10-12,United States
+CQ00012,Member012,Example, MEMBER00012@EXAMPLE.COM ,bronze,2025-10-26,2026-01-12,1444.92,23,True,2026-10-12,United Kingdom
+CQ00013,Member013,Example, MEMBER00013@EXAMPLE.COM ,gold,2025-07-19,2026-04-29,1225.6,26,True,2026-10-12,United States
+CQ00014,Member014,Example, MEMBER00014@EXAMPLE.COM ,bronze,2025-01-03,2026-03-21,865.99,8,True,2026-10-12,Germany
+CQ00015,Member015,Example, MEMBER00015@EXAMPLE.COM ,silver,2025-01-05,2026-06-26,3242.52,20,False,2026-10-12,Australia
+CQ00016,Member016,Example, MEMBER00016@EXAMPLE.COM ,bronze,2025-12-23,2026-05-30,291.23,4,True,2026-10-12,United Kingdom
+CQ00017,Member017,Example, MEMBER00017@EXAMPLE.COM ,bronze,2024-05-17,2025-12-18,1400.77,12,True,2026-10-12,Canada
+CQ00018,Member018,Example, MEMBER00018@EXAMPLE.COM ,gold,2023-12-03,2026-02-02,443.72,2,True,2026-10-12,Canada
+CQ00019,Member019,Example, MEMBER00019@EXAMPLE.COM ,bronze,2025-11-18,2026-03-10,1039.26,19,True,2026-10-12,Australia
+CQ00020,Member020,Example, MEMBER00020@EXAMPLE.COM ,gold,2023-10-24,2026-06-06,637.35,17,False,2026-10-12,United States
+CQ00021,Member021,Example, MEMBER00021@EXAMPLE.COM ,bronze,2025-04-13,2025-11-18,600.53,10,True,2026-10-12,Australia
+CQ00022,Member022,Example, MEMBER00022@EXAMPLE.COM ,gold,2026-10-05,2026-10-08,290.33,2,True,2026-10-12,United States
+CQ00023,Member023,Example, MEMBER00023@EXAMPLE.COM ,silver,2025-02-07,2025-11-19,779.04,16,True,2026-10-12,Canada
+CQ00024,Member024,Example, MEMBER00024@EXAMPLE.COM ,bronze,2023-10-21,2026-10-12,346.03,19,True,2026-10-12,United Kingdom
+CQ00025,Member025,Example, MEMBER00025@EXAMPLE.COM ,gold,2026-10-09,,0.0,0,True,2026-10-12,United States
+CQ00026,Member026,Example, MEMBER00026@EXAMPLE.COM ,silver,2024-01-20,2026-09-07,1067.83,24,True,2026-10-12,Australia
+CQ00027,Member027,Example, MEMBER00027@EXAMPLE.COM ,gold,2025-11-07,2026-05-30,2029.13,16,True,2026-10-12,Canada
+CQ00028,Member028,Example, MEMBER00028@EXAMPLE.COM ,platinum,2025-08-26,2026-05-06,2866.67,12,True,2026-10-12,Australia
+CQ00029,Member029,Example, MEMBER00029@EXAMPLE.COM ,bronze,2023-11-17,2026-02-23,68.1,3,True,2026-10-12,United States
+CQ00030,Member030,Example, MEMBER00030@EXAMPLE.COM ,bronze,2025-10-30,,0.0,0,False,2026-10-12,Canada
+CQ00031,Member031,Example, MEMBER00031@EXAMPLE.COM ,bronze,2026-05-26,2026-10-04,1837.38,27,True,2026-10-12,United Kingdom
+CQ00032,Member032,Example, MEMBER00032@EXAMPLE.COM ,bronze,2024-01-21,2026-06-25,1878.55,17,True,2026-10-12,Germany
+CQ00033,Member033,Example, MEMBER00033@EXAMPLE.COM ,silver,2024-02-16,2026-06-10,2202.36,25,True,2026-10-12,United States
+CQ00034,Member034,Example, MEMBER00034@EXAMPLE.COM ,bronze,2026-03-27,2026-04-27,749.69,13,True,2026-10-12,United States
+CQ00035,Member035,Example, MEMBER00035@EXAMPLE.COM ,gold,2026-03-24,2026-09-27,2504.74,12,False,2026-10-12,United States
+CQ00036,Member036,Example,member00036@example.com,Silver,2025-05-20,2026-07-06,280.37,6,True,2026-10-12,Canada
+CQ00037,Member037,Example,member00037@example.com,Gold,2025-03-20,2026-02-18,359.51,7,True,2026-10-12,Germany
+CQ00038,Member038,Example,member00038@example.com,Platinum,2026-03-25,2026-09-30,5874.2,20,True,2026-10-12,United States
+CQ00039,Member039,Example,member00039@example.com,Silver,2025-06-14,2026-07-19,755.7,13,True,2026-10-12,Australia
+CQ00040,Member040,Example,member00040@example.com,Bronze,2026-06-13,2026-09-21,667.02,12,False,2026-10-12,Australia
+CQ00041,Member041,Example,member00041@example.com,Platinum,2025-03-06,2026-03-10,7494.34,22,True,2026-10-12,Germany
+CQ00042,Member042,Example,member00042@example.com,Bronze,2024-01-19,2026-07-25,683.08,6,True,2026-10-12,Germany
+CQ00043,Member043,Example,member00043@example.com,Bronze,2026-06-09,2026-07-09,751.06,10,True,2026-10-12,Germany
+CQ00044,Member044,Example,member00044@example.com,Platinum,2023-10-20,2026-07-24,71.09,1,True,2026-10-12,Canada
+CQ00045,Member045,Example,member00045@example.com,Gold,2026-05-24,2026-09-25,2575.01,21,False,2026-10-12,Germany
+CQ00046,Member046,Example,member00046@example.com,Bronze,2025-05-25,2025-12-20,465.69,19,True,2026-10-12,Germany
+CQ00047,Member047,Example,member00047@example.com,Bronze,2023-11-06,2026-05-04,707.25,8,True,2026-10-12,Canada
+CQ00048,Member048,Example,member00048@example.com,Silver,2025-04-16,2026-03-24,286.0,4,True,2026-10-12,United Kingdom
+CQ00049,Member049,Example,member00049@example.com,Silver,2026-05-16,2026-10-10,1571.7,14,True,2026-10-12,United States
+CQ00050,Member050,Example,member00050@example.com,Platinum,2026-10-09,,0.0,0,True,2026-10-12,Canada
+CQ00051,Member051,Example,member00051@example.com,Silver,2024-09-15,2026-05-20,545.99,5,True,2026-10-12,United Kingdom
+CQ00052,Member052,Example,member00052@example.com,Gold,2023-10-24,2026-10-08,2099.27,21,True,2026-10-12,United States
+CQ00053,Member053,Example,member00053@example.com,Gold,2026-01-09,2026-05-30,588.31,3,True,2026-10-12,Canada
+CQ00054,Member054,Example,member00054@example.com,Bronze,2025-04-02,2026-05-21,965.11,19,True,2026-10-12,United Kingdom
+CQ00055,Member055,Example,member00055@example.com,Platinum,2023-12-11,2026-02-04,2373.42,8,False,2026-10-12,United States
+CQ00056,Member056,Example,member00056@example.com,Bronze,2024-05-27,2026-05-24,93.94,1,True,2026-10-12,United Kingdom
+CQ00057,Member057,Example,member00057@example.com,Gold,2025-11-15,2026-02-28,2664.19,17,True,2026-10-12,United States
+CQ00058,Member058,Example,member00058@example.com,Bronze,2026-05-10,2026-09-04,908.62,17,True,2026-10-12,Germany
+CQ00059,Member059,Example,member00059@example.com,Bronze,2025-12-12,2026-03-06,211.95,4,True,2026-10-12,United States
+CQ00060,Member060,Example,member00060@example.com,Bronze,2025-10-18,2026-06-07,1991.78,21,False,2026-10-12,Australia
+CQ00061,Member061,Example,member00061@example.com,Bronze,2025-11-29,2026-06-13,2614.64,27,True,2026-10-12,Canada
+CQ00062,Member062,Example,member00062@example.com,Gold,2024-06-19,2026-09-30,535.42,5,True,2026-10-12,Australia
+CQ00063,Member063,Example,member00063@example.com,Gold,2025-05-21,2026-05-29,292.28,5,True,2026-10-12,United States
+CQ00064,Member064,Example,member00064@example.com,Gold,2024-02-21,2026-06-21,809.31,6,True,2026-10-12,United Kingdom
+CQ00065,Member065,Example,member00065@example.com,Silver,2025-07-02,,0.0,0,False,2026-10-12,United Kingdom
+CQ00066,Member066,Example,member00066@example.com,Silver,2026-05-22,2026-08-02,956.45,11,True,2026-10-12,Germany
+CQ00067,Member067,Example,member00067@example.com,Gold,2024-12-02,2026-09-28,275.05,3,True,2026-10-12,Germany
+CQ00068,Member068,Example,member00068@example.com,Silver,2025-04-16,2026-09-23,235.74,3,True,2026-10-12,United Kingdom
+CQ00069,Member069,Example,member00069@example.com,Bronze,2024-05-01,2025-12-06,1710.0,16,True,2026-10-12,Canada
+CQ00070,Member070,Example,member00070@example.com,Silver,2025-05-08,2026-09-20,2322.93,22,False,2026-10-12,Germany
+CQ00071,Member071,Example,member00071@example.com,Bronze,2025-09-03,2026-04-09,1081.24,13,True,2026-10-12,United Kingdom
+CQ00072,Member072,Example,member00072@example.com,Bronze,2025-01-07,2025-11-07,2887.1,27,True,2026-10-12,Germany
+CQ00073,Member073,Example,member00073@example.com,Silver,2025-01-16,2026-03-17,708.27,10,True,2026-10-12,Canada
+CQ00074,Member074,Example,member00074@example.com,Platinum,2025-09-14,2026-03-11,5186.37,21,True,2026-10-12,Canada
+CQ00075,Member075,Example,member00075@example.com,Bronze,2026-10-06,,0.0,0,True,2026-10-12,Germany
+CQ00076,Member076,Example,member00076@example.com,Silver,2024-12-21,2026-02-16,813.73,14,True,2026-10-12,Australia
+CQ00077,Member077,Example,member00077@example.com,Bronze,2025-10-29,2025-11-09,166.27,2,True,2026-10-12,Germany
+CQ00078,Member078,Example,member00078@example.com,Platinum,2024-11-24,2026-08-26,3033.39,26,True,2026-10-12,United Kingdom
+CQ00079,Member079,Example,member00079@example.com,Bronze,2025-07-08,2026-07-03,163.67,4,True,2026-10-12,Australia
+CQ00080,Member080,Example,member00080@example.com,Gold,2026-05-15,2026-06-18,2078.97,13,False,2026-10-12,Australia
+CQ00081,Member081,Example,member00081@example.com,Bronze,2024-01-03,2026-03-22,598.7,7,True,2026-10-12,United States
+CQ00082,Member082,Example,member00082@example.com,Gold,2024-05-24,2026-06-22,930.06,5,True,2026-10-12,Australia
+CQ00083,Member083,Example,member00083@example.com,Platinum,2026-07-01,2026-08-02,582.68,7,True,2026-10-12,Canada
+CQ00084,Member084,Example,member00084@example.com,Silver,2024-03-04,2026-01-14,2928.35,17,True,2026-10-12,Australia
+CQ00085,Member085,Example,member00085@example.com,Platinum,2023-12-13,2026-03-08,4649.36,26,False,2026-10-12,Canada
+CQ00086,Member086,Example,member00086@example.com,Gold,2024-02-12,2026-02-24,1738.0,8,True,2026-10-12,United Kingdom
+CQ00087,Member087,Example,member00087@example.com,Bronze,2023-11-09,2026-02-06,1211.34,20,True,2026-10-12,United Kingdom
+CQ00088,Member088,Example,member00088@example.com,Bronze,2025-06-18,2026-05-26,706.7,10,True,2026-10-12,Canada
+CQ00089,Member089,Example,member00089@example.com,Silver,2025-12-07,2026-06-16,1613.94,12,True,2026-10-12,United States
+CQ00090,Member090,Example,member00090@example.com,Silver,2025-10-25,2026-04-26,589.07,17,False,2026-10-12,Australia
+CQ00091,Member091,Example,member00091@example.com,Bronze,2024-08-05,2025-12-17,2309.48,22,True,2026-10-12,Germany
+CQ00092,Member092,Example,member00092@example.com,Platinum,2024-08-23,,0.0,0,True,2026-10-12,Australia
+CQ00093,Member093,Example,member00093@example.com,Gold,2024-06-05,2026-01-10,4797.14,23,True,2026-10-12,Canada
+CQ00094,Member094,Example,member00094@example.com,Silver,2024-01-16,2026-06-22,235.99,8,True,2026-10-12,United Kingdom
+CQ00095,Member095,Example,member00095@example.com,Silver,2024-07-05,2026-07-20,1164.34,26,False,2026-10-12,Germany
+CQ00096,Member096,Example,member00096@example.com,Silver,2023-10-14,2026-09-29,1533.18,12,True,2026-10-12,United States
+CQ00097,Member097,Example,member00097@example.com,Silver,2024-05-17,2026-08-04,885.44,27,True,2026-10-12,Australia
+CQ00098,Member098,Example,member00098@example.com,Bronze,2024-12-10,2026-06-26,1301.21,14,True,2026-10-12,Australia
+CQ00099,Member099,Example,member00099@example.com,Gold,2025-03-21,2026-03-11,1096.45,8,True,2026-10-12,Germany
+CQ00100,Member100,Example,member00100@example.com,Bronze,2026-10-07,2026-10-11,225.39,2,False,2026-10-12,United States
+CQ00101,Member101,Example,member00101@example.com,Gold,2026-08-09,2026-09-11,1018.98,6,True,2026-10-12,Canada
+CQ00102,Member102,Example,member00102@example.com,Bronze,2026-01-26,2026-02-12,2346.47,21,True,2026-10-12,Australia
+CQ00103,Member103,Example,member00103@example.com,Silver,2025-05-05,2026-04-07,871.89,5,True,2026-10-12,United States
+CQ00104,Member104,Example,member00104@example.com,Silver,2025-11-10,2026-05-06,506.93,3,True,2026-10-12,Germany
+CQ00105,Member105,Example,member00105@example.com,Bronze,2024-09-03,2026-03-23,1669.88,22,False,2026-10-12,Canada
+CQ00106,Member106,Example,member00106@example.com,Bronze,2026-03-17,2026-04-17,2044.54,24,True,2026-10-12,United States
+CQ00107,Member107,Example,member00107@example.com,Silver,2026-07-19,2026-08-29,1401.45,17,True,2026-10-12,Germany
+CQ00108,Member108,Example,member00108@example.com,Silver,2024-11-12,2026-10-06,2726.49,27,True,2026-10-12,Australia
+CQ00109,Member109,Example,member00109@example.com,Gold,2024-09-30,2025-11-21,5277.61,28,True,2026-10-12,Australia
+CQ00110,Member110,Example,member00110@example.com,Bronze,2025-10-16,2026-01-18,1953.52,20,False,2026-10-12,Germany
+CQ00111,Member111,Example,member00111@example.com,Gold,2024-01-25,2026-02-16,2126.37,13,True,2026-10-12,United Kingdom
+CQ00112,Member112,Example,member00112@example.com,Gold,2025-05-27,2026-08-29,703.35,8,True,2026-10-12,Australia
+CQ00113,Member113,Example,member00113@example.com,Silver,2024-08-26,,0.0,0,True,2026-10-12,Australia
+CQ00114,Member114,Example,member00114@example.com,Bronze,2025-08-03,2026-04-14,1110.64,25,True,2026-10-12,Germany
+CQ00115,Member115,Example,member00115@example.com,Silver,2025-03-25,,0.0,0,False,2026-10-12,Canada
+CQ00116,Member116,Example,member00116@example.com,Gold,2024-07-01,2026-02-04,3142.66,17,True,2026-10-12,Australia
+CQ00117,Member117,Example,member00117@example.com,Bronze,2024-04-07,2026-10-04,113.99,2,True,2026-10-12,Canada
+CQ00118,Member118,Example,member00118@example.com,Bronze,2025-01-22,2025-11-07,1296.22,18,True,2026-10-12,United Kingdom
+CQ00119,Member119,Example,member00119@example.com,Bronze,2024-05-23,2026-01-04,619.65,10,True,2026-10-12,United Kingdom
+CQ00120,Member120,Example,member00120@example.com,Bronze,2025-10-19,2026-08-12,650.79,23,False,2026-10-12,Germany
+CQ00121,Member121,Example,member00121@example.com,Gold,2025-09-27,2026-07-06,570.0,6,True,2026-10-12,Germany
+CQ00122,Member122,Example,member00122@example.com,Platinum,2023-11-02,2025-12-11,2634.38,9,True,2026-10-12,United Kingdom
+CQ00123,Member123,Example,member00123@example.com,Bronze,2025-07-03,2026-04-11,437.91,5,True,2026-10-12,Canada
+CQ00124,Member124,Example,member00124@example.com,Silver,2025-03-29,2026-09-19,133.1,1,True,2026-10-12,Canada
+CQ00125,Member125,Example,member00125@example.com,Bronze,2026-10-11,2026-10-12,128.96,2,False,2026-10-12,United Kingdom
+CQ00126,Member126,Example,member00126@example.com,Platinum,2025-09-29,2026-09-16,1505.53,8,True,2026-10-12,United States
+CQ00127,Member127,Example,member00127@example.com,Silver,2024-07-13,2026-02-03,262.8,2,True,2026-10-12,Canada
+CQ00128,Member128,Example,member00128@example.com,Bronze,2025-12-10,2025-12-28,371.3,9,True,2026-10-12,Germany
+CQ00129,Member129,Example,member00129@example.com,Gold,2024-06-11,2025-12-06,1595.51,19,True,2026-10-12,Germany
+CQ00130,Member130,Example,member00130@example.com,Bronze,2024-08-23,2026-02-24,1057.61,14,False,2026-10-12,Australia
+CQ00131,Member131,Example,member00131@example.com,Bronze,2025-01-24,2025-12-25,2146.64,19,True,2026-10-12,United States
+CQ00132,Member132,Example,member00132@example.com,Bronze,2025-08-12,2025-11-26,146.58,6,True,2026-10-12,Canada
+CQ00133,Member133,Example,member00133@example.com,Bronze,2025-10-21,2026-01-03,114.82,2,True,2026-10-12,Germany
+CQ00134,Member134,Example,member00134@example.com,Bronze,2024-02-22,2026-05-16,87.48,1,True,2026-10-12,Australia
+CQ00135,Member135,Example,member00135@example.com,Gold,2026-05-19,2026-08-14,1365.1,8,False,2026-10-12,Canada
+CQ00136,Member136,Example,member00136@example.com,Bronze,2024-05-24,2026-08-15,531.43,17,True,2026-10-12,United Kingdom
+CQ00137,Member137,Example,member00137@example.com,Bronze,2025-12-24,2026-09-06,47.24,1,True,2026-10-12,Germany
+CQ00138,Member138,Example,member00138@example.com,Silver,2025-02-27,2026-03-02,216.4,3,True,2026-10-12,Australia
+CQ00139,Member139,Example,member00139@example.com,Silver,2025-04-02,2026-01-29,636.96,17,True,2026-10-12,United States
+CQ00140,Member140,Example,member00140@example.com,Bronze,2024-05-10,2026-04-30,483.57,19,False,2026-10-12,Germany
+CQ00141,Member141,Example,member00141@example.com,Bronze,2026-08-30,2026-08-30,527.89,26,True,2026-10-12,Canada
+CQ00142,Member142,Example,member00142@example.com,Silver,2024-02-21,2026-01-20,1362.29,20,True,2026-10-12,Germany
+CQ00143,Member143,Example,member00143@example.com,Silver,2024-05-02,2025-11-21,1017.71,26,True,2026-10-12,United Kingdom
+CQ00144,Member144,Example,member00144@example.com,Silver,2024-06-27,2026-04-25,1579.49,10,True,2026-10-12,United Kingdom
+CQ00145,Member145,Example,member00145@example.com,Silver,2024-06-20,2026-02-01,783.63,9,False,2026-10-12,Germany
+CQ00146,Member146,Example,member00146@example.com,Bronze,2026-07-28,2026-08-15,97.64,2,True,2026-10-12,Australia
+CQ00147,Member147,Example,member00147@example.com,Gold,2023-11-23,2026-10-12,2840.23,21,True,2026-10-12,United States
+CQ00148,Member148,Example,member00148@example.com,Silver,2025-09-22,2026-01-20,1124.93,11,True,2026-10-12,Australia
+CQ00149,Member149,Example,member00149@example.com,Silver,2026-06-28,2026-09-16,1350.31,8,True,2026-10-12,Australia
+CQ00150,Member150,Example,member00150@example.com,Gold,2025-10-12,2025-11-24,3591.43,19,False,2026-10-12,United Kingdom
+CQ00151,Member151,Example,member00151@example.com,Bronze,2026-09-13,2026-09-25,116.22,1,True,2026-10-12,United States
+CQ00152,Member152,Example,member00152@example.com,Gold,2024-03-10,2026-08-13,2862.95,20,True,2026-10-12,United Kingdom
+CQ00153,Member153,Example,member00153@example.com,Gold,2023-12-04,2026-05-26,3220.27,13,True,2026-10-12,Canada
+CQ00154,Member154,Example,member00154@example.com,Bronze,2024-03-20,2026-01-03,436.51,4,True,2026-10-12,Germany
+CQ00155,Member155,Example,member00155@example.com,Gold,2026-01-05,2026-09-07,1763.26,8,False,2026-10-12,United Kingdom
+CQ00156,Member156,Example,member00156@example.com,Bronze,2023-12-07,2026-05-29,2324.39,26,True,2026-10-12,Germany
+CQ00157,Member157,Example,member00157@example.com,Silver,2024-01-13,2026-07-28,1098.92,14,True,2026-10-12,Germany
+CQ00158,Member158,Example,member00158@example.com,Gold,2024-08-30,2026-02-21,2478.28,10,True,2026-10-12,Canada
+CQ00159,Member159,Example,member00159@example.com,Gold,2024-08-18,2026-06-15,1200.73,27,True,2026-10-12,Australia
+CQ00160,Member160,Example,member00160@example.com,Gold,2024-08-22,2026-03-29,3706.25,21,False,2026-10-12,Canada
+CQ00161,Member161,Example,member00161@example.com,Silver,2024-01-01,2026-09-24,465.91,4,True,2026-10-12,United States
+CQ00162,Member162,Example,member00162@example.com,Platinum,2024-04-23,2026-08-22,832.32,16,True,2026-10-12,Canada
+CQ00163,Member163,Example,member00163@example.com,Bronze,2024-06-24,2025-11-11,379.95,4,True,2026-10-12,United Kingdom
+CQ00164,Member164,Example,member00164@example.com,Bronze,2024-11-17,2025-11-27,535.52,22,True,2026-10-12,United Kingdom
+CQ00165,Member165,Example,member00165@example.com,Silver,2023-10-15,2026-04-01,1625.53,10,False,2026-10-12,Australia
+CQ00166,Member166,Example,member00166@example.com,Silver,2026-07-30,2026-10-04,1174.21,7,True,2026-10-12,Canada
+CQ00167,Member167,Example,member00167@example.com,Gold,2026-04-09,2026-06-23,563.23,3,True,2026-10-12,United States
+CQ00168,Member168,Example,member00168@example.com,Bronze,2024-04-16,2026-07-19,421.66,22,True,2026-10-12,United Kingdom
+CQ00169,Member169,Example,member00169@example.com,Bronze,2026-06-19,2026-09-05,340.08,11,True,2026-10-12,Germany
+CQ00170,Member170,Example,member00170@example.com,Gold,2024-06-20,2025-12-27,1509.62,21,False,2026-10-12,United States
+CQ00171,Member171,Example,member00171@example.com,Bronze,2024-08-19,2025-11-29,2272.57,21,True,2026-10-12,Canada
+CQ00172,Member172,Example,member00172@example.com,Bronze,2025-06-23,2026-02-18,839.48,20,True,2026-10-12,United States
+CQ00173,Member173,Example,member00173@example.com,Silver,2024-03-03,2026-05-18,765.42,21,True,2026-10-12,United Kingdom
+CQ00174,Member174,Example,member00174@example.com,Silver,2025-02-06,2025-11-19,1245.52,13,True,2026-10-12,United Kingdom
+CQ00175,Member175,Example,member00175@example.com,Bronze,2026-10-06,2026-10-06,54.67,1,False,2026-10-12,United Kingdom
+CQ00176,Member176,Example,member00176@example.com,Platinum,2025-02-13,,0.0,0,True,2026-10-12,United Kingdom
+CQ00177,Member177,Example,member00177@example.com,Gold,2026-09-25,2026-10-11,431.45,2,True,2026-10-12,United Kingdom
+CQ00178,Member178,Example,member00178@example.com,Bronze,2025-06-27,2025-12-06,2009.73,25,True,2026-10-12,Germany
+CQ00179,Member179,Example,member00179@example.com,Gold,2025-05-16,2025-11-09,3597.93,21,True,2026-10-12,United States
+CQ00180,Member180,Example,member00180@example.com,Silver,2025-11-06,2026-03-01,138.52,1,False,2026-10-12,United States
+CQ00181,Member181,Example,member00181@example.com,Silver,2025-02-14,2026-04-28,1290.83,23,True,2026-10-12,Germany
+CQ00182,Member182,Example,member00182@example.com,Platinum,2024-09-22,2026-01-14,4673.19,16,True,2026-10-12,United Kingdom
+CQ00183,Member183,Example,member00183@example.com,Gold,2024-01-29,2026-05-14,4818.92,23,True,2026-10-12,Australia
+CQ00184,Member184,Example,member00184@example.com,Platinum,2026-05-10,2026-09-06,7219.47,24,True,2026-10-12,Australia
+CQ00185,Member185,Example,member00185@example.com,Bronze,2024-09-22,2026-08-27,1072.36,25,False,2026-10-12,United States
+CQ00186,Member186,Example,member00186@example.com,Gold,2024-03-24,2026-04-07,1929.67,21,True,2026-10-12,Australia
+CQ00187,Member187,Example,member00187@example.com,Bronze,2024-09-11,2026-08-18,394.2,21,True,2026-10-12,Germany
+CQ00188,Member188,Example,member00188@example.com,Silver,2024-12-09,2025-12-04,864.41,7,True,2026-10-12,Australia
+CQ00189,Member189,Example,member00189@example.com,Bronze,2025-01-31,2025-11-14,270.64,13,True,2026-10-12,United States
+CQ00190,Member190,Example,member00190@example.com,Bronze,2025-01-26,2026-02-02,316.92,3,False,2026-10-12,Canada
+CQ00191,Member191,Example,member00191@example.com,Silver,2024-08-07,2026-02-22,1542.05,11,True,2026-10-12,Germany
+CQ00192,Member192,Example,member00192@example.com,Gold,2024-06-05,2025-12-16,5224.1,23,True,2026-10-12,United States
+CQ00193,Member193,Example,member00193@example.com,Platinum,2024-01-13,2025-12-01,1688.49,13,True,2026-10-12,United Kingdom
+CQ00194,Member194,Example,member00194@example.com,Platinum,2025-07-24,2026-02-27,4192.02,14,True,2026-10-12,United States
+CQ00195,Member195,Example,member00195@example.com,Platinum,2024-09-19,2026-01-07,4287.62,28,False,2026-10-12,Australia
+CQ00196,Member196,Example,member00196@example.com,Platinum,2025-03-25,2026-07-07,870.67,3,True,2026-10-12,United States
+CQ00197,Member197,Example,member00197@example.com,Silver,2025-08-03,2025-11-18,566.21,20,True,2026-10-12,United Kingdom
+CQ00198,Member198,Example,member00198@example.com,Silver,2025-05-31,2026-08-09,890.86,25,True,2026-10-12,Germany
+CQ00199,Member199,Example,member00199@example.com,Gold,2025-08-13,2025-12-16,513.36,6,True,2026-10-12,Canada
+CQ00200,Member200,Example,member00200@example.com,Silver,2026-10-08,,0.0,0,False,2026-10-12,United States
+CQ00201,Member201,Example,member00201@example.com,Bronze,2026-08-20,,0.0,0,True,2026-10-12,Germany
+CQ00202,Member202,Example,member00202@example.com,Bronze,2024-12-17,2026-10-04,145.1,5,True,2026-10-12,Australia
+CQ00203,Member203,Example,member00203@example.com,Bronze,2023-10-30,2026-08-15,1412.52,23,True,2026-10-12,United Kingdom
+CQ00204,Member204,Example,member00204@example.com,Silver,2023-11-25,2025-12-13,178.02,3,True,2026-10-12,Germany
+CQ00205,Member205,Example,member00205@example.com,Bronze,2026-07-15,2026-07-20,1297.07,16,False,2026-10-12,United States
+CQ00206,Member206,Example,member00206@example.com,Silver,2026-06-09,2026-08-12,3546.32,27,True,2026-10-12,Australia
+CQ00207,Member207,Example,member00207@example.com,Bronze,2024-04-16,2026-09-05,2171.01,28,True,2026-10-12,United States
+CQ00208,Member208,Example,member00208@example.com,Silver,2026-01-26,2026-05-25,2089.91,19,True,2026-10-12,United Kingdom
+CQ00209,Member209,Example,member00209@example.com,Bronze,2024-08-22,2025-12-11,1074.95,16,True,2026-10-12,Australia
+CQ00210,Member210,Example,member00210@example.com,Silver,2025-11-06,2026-08-15,4348.2,27,False,2026-10-12,Germany
+CQ00211,Member211,Example,member00211@example.com,Gold,2025-07-28,2026-03-06,1747.17,14,True,2026-10-12,Australia
+CQ00212,Member212,Example,member00212@example.com,Bronze,2024-07-17,2026-03-14,1362.67,23,True,2026-10-12,United Kingdom
+CQ00213,Member213,Example,member00213@example.com,Platinum,2024-09-05,2026-07-26,1412.69,21,True,2026-10-12,United States
+CQ00214,Member214,Example,member00214@example.com,Gold,2026-04-04,2026-06-24,347.59,3,True,2026-10-12,Canada
+CQ00215,Member215,Example,member00215@example.com,Silver,2026-06-11,2026-07-29,2190.48,17,False,2026-10-12,Australia
+CQ00216,Member216,Example,member00216@example.com,Silver,2024-10-17,2025-11-06,4006.94,24,True,2026-10-12,United States
+CQ00217,Member217,Example,member00217@example.com,Bronze,2025-03-01,2025-12-09,670.28,9,True,2026-10-12,Canada
+CQ00218,Member218,Example,member00218@example.com,Gold,2025-11-29,2026-02-08,776.82,7,True,2026-10-12,Germany
+CQ00219,Member219,Example,member00219@example.com,Bronze,2024-09-19,2026-08-15,936.85,24,True,2026-10-12,Australia
+CQ00220,Member220,Example,member00220@example.com,Gold,2026-08-19,2026-09-04,1953.76,21,False,2026-10-12,Canada
+CQ00221,Member221,Example,member00221@example.com,Bronze,2025-03-31,2026-05-07,345.27,10,True,2026-10-12,Canada
+CQ00222,Member222,Example,member00222@example.com,Gold,2024-07-13,2026-09-07,983.53,4,True,2026-10-12,United States
+CQ00223,Member223,Example,member00223@example.com,Silver,2023-10-21,2026-06-24,934.07,12,True,2026-10-12,United Kingdom
+CQ00224,Member224,Example,member00224@example.com,Platinum,2025-01-11,2026-04-29,5354.11,24,True,2026-10-12,United States
+CQ00225,Member225,Example,member00225@example.com,Silver,2026-10-10,,0.0,0,False,2026-10-12,Australia
+CQ00226,Member226,Example,member00226@example.com,Silver,2024-01-21,2025-12-06,817.78,14,True,2026-10-12,Germany
+CQ00227,Member227,Example,member00227@example.com,Bronze,2026-02-20,2026-07-16,1099.55,13,True,2026-10-12,Germany
+CQ00228,Member228,Example,member00228@example.com,Bronze,2024-01-19,2026-01-16,807.81,21,True,2026-10-12,Germany
+CQ00229,Member229,Example,member00229@example.com,Bronze,2026-06-21,2026-10-12,225.19,6,True,2026-10-12,Canada
+CQ00230,Member230,Example,member00230@example.com,Bronze,2025-05-06,2026-05-17,663.62,10,False,2026-10-12,Australia
+CQ00231,Member231,Example,member00231@example.com,Silver,2025-10-17,2026-08-07,728.01,12,True,2026-10-12,Germany
+CQ00232,Member232,Example,member00232@example.com,Gold,2024-10-16,2026-09-06,530.16,12,True,2026-10-12,United States
+CQ00233,Member233,Example,member00233@example.com,Bronze,2024-03-14,2026-09-03,1606.51,27,True,2026-10-12,Australia
+CQ00234,Member234,Example,member00234@example.com,Silver,2024-06-08,2026-05-17,524.28,3,True,2026-10-12,Canada
+CQ00235,Member235,Example,member00235@example.com,Silver,2024-03-13,2026-04-10,82.82,2,False,2026-10-12,Australia
+CQ00236,Member236,Example,member00236@example.com,Bronze,2024-07-13,2026-01-17,95.02,2,True,2026-10-12,United Kingdom
+CQ00237,Member237,Example,member00237@example.com,Bronze,2025-07-15,2026-04-25,1624.35,24,True,2026-10-12,United States
+CQ00238,Member238,Example,member00238@example.com,Platinum,2023-10-21,2026-01-24,902.35,6,True,2026-10-12,Canada
+CQ00239,Member239,Example,member00239@example.com,Bronze,2025-06-15,2026-08-21,134.92,4,True,2026-10-12,Canada
+CQ00240,Member240,Example,member00240@example.com,Silver,2025-10-17,2025-11-25,1685.68,15,False,2026-10-12,Germany
+CQ00241,Member241,Example,member00241@example.com,Silver,2024-04-05,2025-12-27,2436.02,20,True,2026-10-12,United Kingdom
+CQ00242,Member242,Example,member00242@example.com,Silver,2025-12-06,2026-03-01,245.73,2,True,2026-10-12,United Kingdom
+CQ00243,Member243,Example,member00243@example.com,Bronze,2026-06-18,2026-08-28,1004.33,16,True,2026-10-12,United States
+CQ00244,Member244,Example,member00244@example.com,Bronze,2026-06-17,2026-08-26,2111.2,26,True,2026-10-12,United States
+CQ00245,Member245,Example,member00245@example.com,Silver,2023-12-08,2026-03-30,2420.68,14,False,2026-10-12,United States
+CQ00246,Member246,Example,member00246@example.com,Bronze,2024-04-03,2025-12-24,1544.09,20,True,2026-10-12,Germany
+CQ00247,Member247,Example,member00247@example.com,Bronze,2025-12-07,2026-09-11,1495.72,14,True,2026-10-12,United Kingdom
+CQ00248,Member248,Example,member00248@example.com,Bronze,2026-04-22,2026-06-05,824.2,20,True,2026-10-12,Australia
+CQ00249,Member249,Example,member00249@example.com,Silver,2024-04-25,2026-01-17,1302.47,16,True,2026-10-12,United Kingdom
+CQ00250,Member250,Example,member00250@example.com,Silver,2026-10-06,2026-10-06,33.12,1,False,2026-10-12,United Kingdom
+CQ00251,Member251,Example,member00251@example.com,Silver,2026-05-30,2026-07-20,254.75,3,True,2026-10-12,United Kingdom
+CQ00252,Member252,Example,member00252@example.com,Silver,2025-12-08,2026-04-25,93.84,2,True,2026-10-12,United Kingdom
+CQ00253,Member253,Example,member00253@example.com,Silver,2025-01-14,2025-11-11,989.73,22,True,2026-10-12,United States
+CQ00254,Member254,Example,member00254@example.com,Silver,2025-01-15,2025-12-30,910.97,12,True,2026-10-12,Canada
+CQ00255,Member255,Example,member00255@example.com,Silver,2023-10-29,2026-08-26,2076.31,20,False,2026-10-12,United States
+CQ00256,Member256,Example,member00256@example.com,Platinum,2024-09-29,2026-05-07,740.7,5,True,2026-10-12,Australia
+CQ00257,Member257,Example,member00257@example.com,Bronze,2025-09-13,2026-06-19,184.2,4,True,2026-10-12,United States
+CQ00258,Member258,Example,member00258@example.com,Gold,2023-12-07,2026-01-09,3880.69,26,True,2026-10-12,United Kingdom
+CQ00259,Member259,Example,member00259@example.com,Bronze,2026-01-16,2026-04-03,400.03,4,True,2026-10-12,Germany
+CQ00260,Member260,Example,member00260@example.com,Silver,2025-11-06,2026-03-02,129.84,1,False,2026-10-12,Canada
+CQ00261,Member261,Example,member00261@example.com,Gold,2024-04-15,2025-12-04,1845.76,9,True,2026-10-12,Canada
+CQ00262,Member262,Example,member00262@example.com,Platinum,2023-10-14,2026-06-12,2506.47,9,True,2026-10-12,Canada
+CQ00263,Member263,Example,member00263@example.com,Silver,2024-09-18,2025-12-24,961.44,14,True,2026-10-12,Australia
+CQ00264,Member264,Example,member00264@example.com,Platinum,2023-12-17,2026-01-15,3744.97,13,True,2026-10-12,Germany
+CQ00265,Member265,Example,member00265@example.com,Silver,2026-01-01,2026-06-06,160.49,1,False,2026-10-12,Germany
+CQ00266,Member266,Example,member00266@example.com,Silver,2026-03-15,2026-04-13,1196.78,27,True,2026-10-12,United States
+CQ00267,Member267,Example,member00267@example.com,Platinum,2025-11-17,2026-05-26,1272.52,14,True,2026-10-12,Australia
+CQ00268,Member268,Example,member00268@example.com,Silver,2026-04-07,2026-08-17,2058.83,26,True,2026-10-12,United States
+CQ00269,Member269,Example,member00269@example.com,Silver,2024-06-14,2026-09-15,738.55,12,True,2026-10-12,United States
+CQ00270,Member270,Example,member00270@example.com,Platinum,2025-10-19,2026-09-28,2946.37,10,False,2026-10-12,United Kingdom
+CQ00271,Member271,Example,member00271@example.com,Bronze,2025-12-16,2026-08-03,99.85,1,True,2026-10-12,Canada
+CQ00272,Member272,Example,member00272@example.com,Bronze,2024-02-24,2026-02-25,460.41,19,True,2026-10-12,United Kingdom
+CQ00273,Member273,Example,member00273@example.com,Platinum,2025-07-27,2026-07-28,3855.86,17,True,2026-10-12,Australia
+CQ00274,Member274,Example,member00274@example.com,Bronze,2026-02-26,2026-03-28,256.74,9,True,2026-10-12,Canada
+CQ00275,Member275,Example,member00275@example.com,Gold,2026-10-05,,0.0,0,False,2026-10-12,Germany
+CQ00276,Member276,Example,member00276@example.com,Bronze,2026-09-08,2026-09-10,552.88,18,True,2026-10-12,Australia
+CQ00277,Member277,Example,member00277@example.com,Bronze,2026-10-08,2026-10-08,58.22,1,True,2026-10-12,United States
+CQ00278,Member278,Example,member00278@example.com,Platinum,2023-11-04,2026-04-11,415.46,2,True,2026-10-12,Germany
+CQ00279,Member279,Example,member00279@example.com,Silver,2026-08-31,2026-09-18,3335.28,27,True,2026-10-12,United Kingdom
+CQ00280,Member280,Example,member00280@example.com,Gold,2025-05-10,2026-10-04,1208.04,11,False,2026-10-12,United States
+CQ00281,Member281,Example,member00281@example.com,Bronze,2024-11-30,2026-08-05,50.36,1,True,2026-10-12,Canada
+CQ00282,Member282,Example,member00282@example.com,Bronze,2024-03-04,2026-02-09,596.73,20,True,2026-10-12,Australia
+CQ00283,Member283,Example,member00283@example.com,Bronze,2026-07-28,2026-09-05,218.08,6,True,2026-10-12,United States
+CQ00284,Member284,Example,member00284@example.com,Bronze,2025-01-03,2026-05-07,1574.43,16,True,2026-10-12,Australia
+CQ00285,Member285,Example,member00285@example.com,Silver,2025-05-11,2026-09-24,1664.33,24,False,2026-10-12,United States
+CQ00286,Member286,Example,member00286@example.com,Gold,2024-12-01,2026-05-26,389.46,3,True,2026-10-12,Australia
+CQ00287,Member287,Example,member00287@example.com,Platinum,2024-04-24,2026-03-29,1936.32,10,True,2026-10-12,Australia
+CQ00288,Member288,Example,member00288@example.com,Gold,2024-09-19,2026-01-20,1542.21,8,True,2026-10-12,United States
+CQ00289,Member289,Example,member00289@example.com,Bronze,2024-05-13,2025-12-08,1192.02,26,True,2026-10-12,United States
+CQ00290,Member290,Example,member00290@example.com,Bronze,2026-05-01,2026-07-21,1284.7,21,False,2026-10-12,Australia
+CQ00291,Member291,Example,member00291@example.com,Silver,2025-11-04,2026-02-27,1514.22,11,True,2026-10-12,United Kingdom
+CQ00292,Member292,Example,member00292@example.com,Platinum,2024-05-04,2026-05-25,6533.16,20,True,2026-10-12,United States
+CQ00293,Member293,Example,member00293@example.com,Gold,2024-07-02,2026-04-09,2918.91,16,True,2026-10-12,United States
+CQ00294,Member294,Example,member00294@example.com,Bronze,2025-12-23,2026-03-02,40.03,1,True,2026-10-12,United Kingdom
+CQ00295,Member295,Example,member00295@example.com,Bronze,2024-09-30,2026-03-30,570.76,18,False,2026-10-12,Australia
+CQ00296,Member296,Example,member00296@example.com,Gold,2024-09-12,2026-04-05,2233.57,14,True,2026-10-12,Germany
+CQ00297,Member297,Example,member00297@example.com,Silver,2024-09-20,2026-03-23,636.9,10,True,2026-10-12,United States
+CQ00298,Member298,Example,member00298@example.com,Silver,2026-08-19,2026-08-26,424.92,5,True,2026-10-12,Germany
+CQ00299,Member299,Example,member00299@example.com,Bronze,2026-02-12,2026-08-06,1469.09,24,True,2026-10-12,Germany
+CQ00300,Member300,Example,member00300@example.com,Gold,2025-10-18,2026-08-11,532.37,4,False,2026-10-12,Australia
+CQ00301,Member301,Example,member00301@example.com,Platinum,2026-04-15,2026-04-21,6592.83,27,True,2026-10-12,United States
+CQ00302,Member302,Example,member00302@example.com,Bronze,2025-02-24,2026-05-12,2368.94,27,True,2026-10-12,Canada
+CQ00303,Member303,Example,member00303@example.com,Bronze,2024-10-01,2026-01-25,255.49,7,True,2026-10-12,Canada
+CQ00304,Member304,Example,member00304@example.com,Bronze,2025-06-14,,0.0,0,True,2026-10-12,Australia
+CQ00305,Member305,Example,member00305@example.com,Bronze,2026-01-19,2026-08-29,233.92,2,False,2026-10-12,Australia
+CQ00306,Member306,Example,member00306@example.com,Silver,2023-10-31,2026-03-16,2738.63,24,True,2026-10-12,Canada
+CQ00307,Member307,Example,member00307@example.com,Silver,2024-12-31,2025-11-18,260.83,2,True,2026-10-12,United Kingdom
+CQ00308,Member308,Example,member00308@example.com,Platinum,2026-01-22,2026-07-11,4197.75,24,True,2026-10-12,United States
+CQ00309,Member309,Example,member00309@example.com,Bronze,2026-01-30,2026-07-26,438.82,9,True,2026-10-12,Canada
+CQ00310,Member310,Example,member00310@example.com,Bronze,2024-11-02,2026-01-20,677.46,28,False,2026-10-12,Canada
+CQ00311,Member311,Example,member00311@example.com,Bronze,2025-03-28,2026-08-09,1399.96,20,True,2026-10-12,Germany
+CQ00312,Member312,Example,member00312@example.com,Bronze,2025-10-31,2025-12-13,1487.11,18,True,2026-10-12,Germany
+CQ00313,Member313,Example,member00313@example.com,Gold,2024-11-19,2025-12-28,41.16,1,True,2026-10-12,United States
+CQ00314,Member314,Example,member00314@example.com,Gold,2025-04-17,2025-11-13,752.4,6,True,2026-10-12,United States
+CQ00315,Member315,Example,member00315@example.com,Bronze,2023-12-27,2025-11-25,1914.75,17,False,2026-10-12,Australia
+CQ00316,Member316,Example,member00316@example.com,Silver,2025-05-28,2026-03-19,1185.62,9,True,2026-10-12,Canada
+CQ00317,Member317,Example,member00317@example.com,Silver,2024-04-24,2026-03-14,1165.95,15,True,2026-10-12,Canada
+CQ00318,Member318,Example,member00318@example.com,Platinum,2025-01-09,2026-05-02,3431.87,23,True,2026-10-12,Australia
+CQ00319,Member319,Example,member00319@example.com,Silver,2026-01-17,2026-04-06,1191.41,16,True,2026-10-12,Australia
+CQ00320,Member320,Example,member00320@example.com,Bronze,2026-02-03,2026-08-05,364.05,14,False,2026-10-12,United Kingdom
+CQ00321,Member321,Example,member00321@example.com,Bronze,2024-08-16,2025-12-01,1344.59,13,True,2026-10-12,Canada
+CQ00322,Member322,Example,member00322@example.com,Bronze,2024-12-10,2025-12-21,2142.09,23,True,2026-10-12,Australia
+CQ00323,Member323,Example,member00323@example.com,Gold,2023-11-22,2026-02-15,2143.94,15,True,2026-10-12,United States
+CQ00324,Member324,Example,member00324@example.com,Platinum,2024-07-28,2026-01-27,1552.04,14,True,2026-10-12,United Kingdom
+CQ00325,Member325,Example,member00325@example.com,Silver,2026-10-12,2026-10-12,155.64,1,False,2026-10-12,Australia
+CQ00326,Member326,Example,member00326@example.com,Gold,2025-03-05,,0.0,0,True,2026-10-12,United Kingdom
+CQ00327,Member327,Example,member00327@example.com,Bronze,2024-09-22,2026-03-20,235.45,11,True,2026-10-12,Germany
+CQ00328,Member328,Example,member00328@example.com,Bronze,2025-09-08,2026-04-10,937.97,17,True,2026-10-12,Australia
+CQ00329,Member329,Example,member00329@example.com,Silver,2025-03-18,2025-11-27,943.8,21,True,2026-10-12,United States
+CQ00330,Member330,Example,member00330@example.com,Platinum,2025-10-23,2026-04-22,4587.23,17,False,2026-10-12,Canada
+CQ00331,Member331,Example,member00331@example.com,Bronze,2023-12-04,2026-03-21,322.73,16,True,2026-10-12,United Kingdom
+CQ00332,Member332,Example,member00332@example.com,Bronze,2024-02-14,2026-01-20,1487.26,14,True,2026-10-12,Canada
+CQ00333,Member333,Example,member00333@example.com,Bronze,2024-12-09,2025-12-03,1160.55,10,True,2026-10-12,United Kingdom
+CQ00334,Member334,Example,member00334@example.com,Silver,2024-11-22,2026-01-26,2624.08,26,True,2026-10-12,Germany
+CQ00335,Member335,Example,member00335@example.com,Bronze,2025-02-05,2026-02-11,1290.18,26,False,2026-10-12,United States
+CQ00336,Member336,Example,member00336@example.com,Gold,2024-06-10,2025-12-18,1731.56,9,True,2026-10-12,United States
+CQ00337,Member337,Example,member00337@example.com,Gold,2024-02-13,2026-05-30,4068.54,20,True,2026-10-12,Germany
+CQ00338,Member338,Example,member00338@example.com,Silver,2025-07-02,2026-09-16,1912.61,18,True,2026-10-12,Germany
+CQ00339,Member339,Example,member00339@example.com,Silver,2024-08-24,2026-07-29,777.23,26,True,2026-10-12,United States
+CQ00340,Member340,Example,member00340@example.com,Bronze,2025-09-16,2026-10-03,441.09,14,False,2026-10-12,Canada
+CQ00341,Member341,Example,member00341@example.com,Silver,2024-06-23,2026-01-29,2354.37,24,True,2026-10-12,United States
+CQ00342,Member342,Example,member00342@example.com,Silver,2026-01-02,2026-01-20,1078.25,6,True,2026-10-12,Australia
+CQ00343,Member343,Example,member00343@example.com,Platinum,2023-10-31,2026-04-03,1828.71,10,True,2026-10-12,Germany
+CQ00344,Member344,Example,member00344@example.com,Silver,2024-11-09,2026-01-06,1754.35,11,True,2026-10-12,United Kingdom
+CQ00345,Member345,Example,member00345@example.com,Bronze,2024-01-24,2026-07-06,324.27,7,False,2026-10-12,United Kingdom
+CQ00346,Member346,Example,member00346@example.com,Gold,2025-02-27,2026-06-28,2283.55,22,True,2026-10-12,United Kingdom
+CQ00347,Member347,Example,member00347@example.com,Silver,2025-03-30,2026-05-18,327.58,3,True,2026-10-12,Australia
+CQ00348,Member348,Example,member00348@example.com,Bronze,2024-11-04,2026-07-30,1012.48,9,True,2026-10-12,United States
+CQ00349,Member349,Example,member00349@example.com,Bronze,2024-11-01,2026-02-28,1290.34,20,True,2026-10-12,Canada
+CQ00350,Member350,Example,member00350@example.com,Silver,2026-10-08,,0.0,0,False,2026-10-12,Canada
+CQ00351,Member351,Example,member00351@example.com,Silver,2026-06-30,2026-07-19,3468.68,28,True,2026-10-12,United States
+CQ00352,Member352,Example,member00352@example.com,Gold,2026-03-20,2026-06-29,568.18,10,True,2026-10-12,Canada
+CQ00353,Member353,Example,member00353@example.com,Silver,2026-10-01,,0.0,0,True,2026-10-12,Australia
+CQ00354,Member354,Example,member00354@example.com,Gold,2024-02-07,2025-11-13,583.99,6,True,2026-10-12,United Kingdom
+CQ00355,Member355,Example,member00355@example.com,Bronze,2026-06-12,2026-06-18,1778.25,24,False,2026-10-12,Germany
+CQ00356,Member356,Example,member00356@example.com,Gold,2026-07-27,2026-09-20,950.9,13,True,2026-10-12,United States
+CQ00357,Member357,Example,member00357@example.com,Platinum,2024-07-20,2026-02-01,1654.24,5,True,2026-10-12,United Kingdom
+CQ00358,Member358,Example,member00358@example.com,Silver,2026-07-27,2026-10-11,374.68,9,True,2026-10-12,United Kingdom
+CQ00359,Member359,Example,member00359@example.com,Silver,2025-03-08,2026-02-22,2031.13,20,True,2026-10-12,Canada
+CQ00360,Member360,Example,member00360@example.com,Gold,2025-10-26,2026-05-26,640.55,6,False,2026-10-12,Australia
+CQ00361,Member361,Example,member00361@example.com,Gold,2025-05-03,,0.0,0,True,2026-10-12,Germany
+CQ00362,Member362,Example,member00362@example.com,Gold,2025-09-11,2026-07-15,4363.51,19,True,2026-10-12,Australia
+CQ00363,Member363,Example,member00363@example.com,Silver,2023-11-21,2026-04-28,79.57,2,True,2026-10-12,Canada
+CQ00364,Member364,Example,member00364@example.com,Bronze,2024-02-07,2026-04-30,384.27,7,True,2026-10-12,Australia
+CQ00365,Member365,Example,member00365@example.com,Silver,2025-04-13,2026-04-27,1024.16,9,False,2026-10-12,United Kingdom
+CQ00366,Member366,Example,member00366@example.com,Silver,2024-10-05,2026-06-14,97.14,1,True,2026-10-12,Canada
+CQ00367,Member367,Example,member00367@example.com,Gold,2024-07-03,2026-01-28,5657.55,28,True,2026-10-12,United States
+CQ00368,Member368,Example,member00368@example.com,Bronze,2025-02-14,2026-04-07,2141.38,19,True,2026-10-12,Australia
+CQ00369,Member369,Example,member00369@example.com,Platinum,2025-12-02,2026-02-22,3623.25,23,True,2026-10-12,Germany
+CQ00370,Member370,Example,member00370@example.com,Silver,2024-02-20,2026-01-10,1471.35,25,False,2026-10-12,Canada
+CQ00371,Member371,Example,member00371@example.com,Silver,2026-04-27,2026-05-31,1135.07,14,True,2026-10-12,Germany
+CQ00372,Member372,Example,member00372@example.com,Silver,2026-02-24,2026-09-27,2687.11,26,True,2026-10-12,Germany
+CQ00373,Member373,Example,member00373@example.com,Gold,2025-12-09,2026-07-20,1308.79,10,True,2026-10-12,Canada
+CQ00374,Member374,Example,member00374@example.com,Silver,2024-01-14,2026-08-27,4209.72,28,True,2026-10-12,Australia
+CQ00375,Member375,Example,member00375@example.com,Bronze,2026-10-06,2026-10-09,125.67,2,False,2026-10-12,United Kingdom
+CQ00376,Member376,Example,member00376@example.com,Gold,2026-08-28,2026-09-17,1574.72,8,True,2026-10-12,Germany
+CQ00377,Member377,Example,member00377@example.com,Bronze,2026-05-15,2026-10-01,294.76,13,True,2026-10-12,United States
+CQ00378,Member378,Example,member00378@example.com,Bronze,2026-05-23,2026-06-14,34.38,1,True,2026-10-12,Canada
+CQ00379,Member379,Example,member00379@example.com,Bronze,2024-06-03,2026-04-04,2908.2,28,True,2026-10-12,Australia
+CQ00380,Member380,Example,member00380@example.com,Platinum,2024-09-02,2026-09-01,6406.18,21,False,2026-10-12,Canada
+CQ00381,Member381,Example,member00381@example.com,Platinum,2024-10-29,2026-08-13,816.28,5,True,2026-10-12,Canada
+CQ00382,Member382,Example,member00382@example.com,Bronze,2025-07-12,2026-10-11,1111.44,24,True,2026-10-12,Germany
+CQ00383,Member383,Example,member00383@example.com,Gold,2024-05-26,2026-01-13,1064.52,12,True,2026-10-12,United Kingdom
+CQ00384,Member384,Example,member00384@example.com,Platinum,2025-11-28,2026-05-24,1566.12,6,True,2026-10-12,United States
+CQ00385,Member385,Example,member00385@example.com,Gold,2026-08-07,2026-08-20,4308.73,19,False,2026-10-12,United States
+CQ00386,Member386,Example,member00386@example.com,Bronze,2025-06-06,2026-06-29,39.27,2,True,2026-10-12,Germany
+CQ00387,Member387,Example,member00387@example.com,Bronze,2026-07-04,2026-09-11,1390.94,23,True,2026-10-12,Germany
+CQ00388,Member388,Example,member00388@example.com,Silver,2025-07-24,2026-09-14,279.34,4,True,2026-10-12,Germany
+CQ00389,Member389,Example,member00389@example.com,Gold,2024-12-27,2025-12-21,4039.19,19,True,2026-10-12,Canada
+CQ00390,Member390,Example,member00390@example.com,Silver,2025-11-09,2026-07-31,1871.14,21,False,2026-10-12,United Kingdom
+CQ00391,Member391,Example,member00391@example.com,Gold,2026-06-09,2026-08-02,4190.62,18,True,2026-10-12,Australia
+CQ00392,Member392,Example,member00392@example.com,Platinum,2023-12-31,2026-09-18,2697.31,11,True,2026-10-12,Germany
+CQ00393,Member393,Example,member00393@example.com,Bronze,2024-12-28,2026-03-13,704.32,13,True,2026-10-12,Germany
+CQ00394,Member394,Example,member00394@example.com,Bronze,2024-02-15,2026-06-11,2771.48,27,True,2026-10-12,Canada
+CQ00395,Member395,Example,member00395@example.com,Silver,2024-03-07,2026-09-13,1522.5,17,False,2026-10-12,Germany
+CQ00396,Member396,Example,member00396@example.com,Bronze,2026-01-10,2026-03-28,346.67,7,True,2026-10-12,United States
+CQ00397,Member397,Example,member00397@example.com,Silver,2024-04-03,2026-04-06,307.12,2,True,2026-10-12,United States
+CQ00398,Member398,Example,member00398@example.com,Silver,2025-04-10,2026-04-02,653.73,21,True,2026-10-12,United States
+CQ00399,Member399,Example,member00399@example.com,Silver,2025-09-21,2025-12-16,1348.66,23,True,2026-10-12,Canada
+CQ00400,Member400,Example,member00400@example.com,Platinum,2026-10-08,,0.0,0,False,2026-10-12,United States
+CQ00401,Member401,Example,member00401@example.com,Silver,2024-02-04,2026-06-10,1247.39,22,True,2026-10-12,Canada
+CQ00402,Member402,Example,member00402@example.com,Silver,2024-12-22,2026-05-21,1506.62,12,True,2026-10-12,United Kingdom
+CQ00403,Member403,Example,member00403@example.com,Gold,2025-04-24,2026-04-11,2177.97,16,True,2026-10-12,Australia
+CQ00404,Member404,Example,member00404@example.com,Bronze,2024-12-25,2026-06-30,229.41,11,True,2026-10-12,Canada
+CQ00405,Member405,Example,member00405@example.com,Silver,2025-12-17,2026-10-04,924.2,8,False,2026-10-12,Australia
+CQ00406,Member406,Example,member00406@example.com,Bronze,2025-02-14,2026-07-26,327.11,6,True,2026-10-12,Canada
+CQ00407,Member407,Example,member00407@example.com,Platinum,2023-12-24,2026-01-04,2938.25,20,True,2026-10-12,Australia
+CQ00408,Member408,Example,member00408@example.com,Gold,2024-01-11,2026-02-19,557.11,5,True,2026-10-12,Canada
+CQ00409,Member409,Example,member00409@example.com,Silver,2024-01-15,2026-07-10,3485.45,28,True,2026-10-12,United States
+CQ00410,Member410,Example,member00410@example.com,Gold,2023-11-03,2026-09-25,6242.75,26,False,2026-10-12,United States
+CQ00411,Member411,Example,member00411@example.com,Gold,2026-09-28,,0.0,0,True,2026-10-12,Canada
+CQ00412,Member412,Example,member00412@example.com,Silver,2026-09-23,2026-10-06,68.74,2,True,2026-10-12,Germany
+CQ00413,Member413,Example,member00413@example.com,Bronze,2024-01-26,2025-11-09,1048.06,15,True,2026-10-12,Australia
+CQ00414,Member414,Example,member00414@example.com,Gold,2026-09-17,2026-10-12,302.51,2,True,2026-10-12,United Kingdom
+CQ00415,Member415,Example,member00415@example.com,Silver,2026-09-06,2026-09-10,2385.21,26,False,2026-10-12,Canada
+CQ00416,Member416,Example,member00416@example.com,Bronze,2026-03-06,2026-09-18,569.39,16,True,2026-10-12,Germany
+CQ00417,Member417,Example,member00417@example.com,Gold,2025-05-13,2026-04-14,417.18,8,True,2026-10-12,Australia
+CQ00418,Member418,Example,member00418@example.com,Platinum,2024-03-15,2025-12-27,798.1,7,True,2026-10-12,United States
+CQ00419,Member419,Example,member00419@example.com,Bronze,2026-08-08,2026-10-01,863.22,12,True,2026-10-12,United States
+CQ00420,Member420,Example,member00420@example.com,Silver,2025-11-03,2026-07-17,184.51,2,False,2026-10-12,United Kingdom
+CQ00421,Member421,Example,member00421@example.com,Bronze,2026-03-30,2026-05-30,107.05,1,True,2026-10-12,Germany
+CQ00422,Member422,Example,member00422@example.com,Platinum,2024-02-11,2026-05-27,249.06,1,True,2026-10-12,United Kingdom
+CQ00423,Member423,Example,member00423@example.com,Bronze,2026-08-05,2026-09-20,3054.19,27,True,2026-10-12,Germany
+CQ00424,Member424,Example,member00424@example.com,Bronze,2025-12-20,2026-03-23,146.14,2,True,2026-10-12,Germany
+CQ00425,Member425,Example,member00425@example.com,Bronze,2026-10-07,2026-10-09,231.68,2,False,2026-10-12,United States
+CQ00426,Member426,Example,member00426@example.com,Bronze,2023-12-21,2026-04-18,39.64,1,True,2026-10-12,United States
+CQ00427,Member427,Example,member00427@example.com,Silver,2024-11-13,2025-12-07,2815.66,24,True,2026-10-12,United Kingdom
+CQ00428,Member428,Example,member00428@example.com,Gold,2026-08-12,2026-09-02,1062.16,8,True,2026-10-12,Canada
+CQ00429,Member429,Example,member00429@example.com,Silver,2024-10-13,2026-01-02,1564.23,12,True,2026-10-12,Australia
+CQ00430,Member430,Example,member00430@example.com,Gold,2026-04-19,2026-05-07,1707.7,9,False,2026-10-12,United States
+CQ00431,Member431,Example,member00431@example.com,Gold,2025-04-11,2026-07-26,2070.68,12,True,2026-10-12,Australia
+CQ00432,Member432,Example,member00432@example.com,Bronze,2025-01-01,2026-04-11,333.76,3,True,2026-10-12,Australia
+CQ00433,Member433,Example,member00433@example.com,Bronze,2024-10-04,2026-05-27,105.39,3,True,2026-10-12,Australia
+CQ00434,Member434,Example,member00434@example.com,Bronze,2023-11-27,2026-03-18,155.72,3,True,2026-10-12,United States
+CQ00435,Member435,Example,member00435@example.com,Bronze,2024-12-16,,0.0,0,False,2026-10-12,United States
+CQ00436,Member436,Example,member00436@example.com,Bronze,2025-06-01,2025-12-24,873.74,16,True,2026-10-12,Canada
+CQ00437,Member437,Example,member00437@example.com,Silver,2025-04-09,2026-05-11,278.45,8,True,2026-10-12,Australia
+CQ00438,Member438,Example,member00438@example.com,Silver,2025-03-25,2026-03-11,332.31,9,True,2026-10-12,United Kingdom
+CQ00439,Member439,Example,member00439@example.com,Silver,2025-05-24,2025-11-26,829.65,15,True,2026-10-12,United States
+CQ00440,Member440,Example,member00440@example.com,Platinum,2026-01-07,,0.0,0,False,2026-10-12,Germany
+CQ00441,Member441,Example,member00441@example.com,Bronze,2024-08-24,2026-04-27,1377.73,14,True,2026-10-12,Germany
+CQ00442,Member442,Example,member00442@example.com,Silver,2026-01-06,2026-05-12,1327.7,10,True,2026-10-12,Australia
+CQ00443,Member443,Example,member00443@example.com,Platinum,2025-01-06,2026-07-14,1599.98,12,True,2026-10-12,Australia
+CQ00444,Member444,Example,member00444@example.com,Bronze,2025-06-02,2026-04-29,1145.11,12,True,2026-10-12,United Kingdom
+CQ00445,Member445,Example,member00445@example.com,Silver,2026-02-20,2026-05-21,657.44,6,False,2026-10-12,Germany
+CQ00446,Member446,Example,member00446@example.com,Platinum,2026-08-17,2026-08-27,1529.38,14,True,2026-10-12,United Kingdom
+CQ00447,Member447,Example,member00447@example.com,Silver,2026-05-23,2026-06-30,2586.51,21,True,2026-10-12,Canada
+CQ00448,Member448,Example,member00448@example.com,Gold,2025-05-12,2025-11-09,824.92,4,True,2026-10-12,United States
+CQ00449,Member449,Example,member00449@example.com,Silver,2024-04-05,2025-12-10,1617.4,15,True,2026-10-12,Australia
+CQ00450,Member450,Example,member00450@example.com,Silver,2025-11-03,2026-01-11,725.27,19,False,2026-10-12,Canada
+CQ00451,Member451,Example,member00451@example.com,Silver,2024-10-14,2026-07-19,2245.98,20,True,2026-10-12,Australia
+CQ00452,Member452,Example,member00452@example.com,Bronze,2024-12-01,2026-03-06,126.95,3,True,2026-10-12,Germany
+CQ00453,Member453,Example,member00453@example.com,Silver,2023-11-14,2025-12-31,1066.68,18,True,2026-10-12,United Kingdom
+CQ00454,Member454,Example,member00454@example.com,Silver,2024-08-01,2026-02-17,3168.43,24,True,2026-10-12,Canada
+CQ00455,Member455,Example,member00455@example.com,Bronze,2024-11-04,2026-09-30,872.39,15,False,2026-10-12,United States
+CQ00456,Member456,Example,member00456@example.com,Bronze,2026-02-16,2026-03-14,1096.48,23,True,2026-10-12,Australia
+CQ00457,Member457,Example,member00457@example.com,Bronze,2025-08-14,2026-01-19,391.28,15,True,2026-10-12,Australia
+CQ00458,Member458,Example,member00458@example.com,Bronze,2024-12-27,2026-09-08,790.75,9,True,2026-10-12,United States
+CQ00459,Member459,Example,member00459@example.com,Silver,2024-11-08,2025-11-15,151.42,3,True,2026-10-12,Canada
+CQ00460,Member460,Example,member00460@example.com,Bronze,2023-11-20,2026-07-15,1235.13,17,False,2026-10-12,Australia
+CQ00461,Member461,Example,member00461@example.com,Bronze,2025-06-24,2026-03-19,1615.56,20,True,2026-10-12,Australia
+CQ00462,Member462,Example,member00462@example.com,Silver,2024-07-23,2026-09-28,1278.46,23,True,2026-10-12,Germany
+CQ00463,Member463,Example,member00463@example.com,Gold,2024-05-15,,0.0,0,True,2026-10-12,United States
+CQ00464,Member464,Example,member00464@example.com,Silver,2026-03-17,2026-03-22,2205.84,27,True,2026-10-12,Canada
+CQ00465,Member465,Example,member00465@example.com,Silver,2024-03-18,2026-08-15,806.96,8,False,2026-10-12,United Kingdom
+CQ00466,Member466,Example,member00466@example.com,Silver,2024-08-07,2025-12-04,947.14,12,True,2026-10-12,Australia
+CQ00467,Member467,Example,member00467@example.com,Silver,2025-10-23,2026-05-13,2454.36,19,True,2026-10-12,United Kingdom
+CQ00468,Member468,Example,member00468@example.com,Bronze,2026-02-12,2026-08-12,484.75,9,True,2026-10-12,Canada
+CQ00469,Member469,Example,member00469@example.com,Silver,2023-11-30,2026-03-28,1483.23,13,True,2026-10-12,Australia
+CQ00470,Member470,Example,member00470@example.com,Silver,2025-09-26,2026-02-05,3349.4,20,False,2026-10-12,Canada
+CQ00471,Member471,Example,member00471@example.com,Bronze,2025-11-04,2026-02-04,431.5,9,True,2026-10-12,Australia
+CQ00472,Member472,Example,member00472@example.com,Platinum,2026-06-24,2026-06-24,2092.39,11,True,2026-10-12,Canada
+CQ00473,Member473,Example,member00473@example.com,Silver,2024-08-16,2025-12-29,1414.65,16,True,2026-10-12,Australia
+CQ00474,Member474,Example,member00474@example.com,Bronze,2024-06-12,2026-02-27,1098.21,15,True,2026-10-12,Canada
+CQ00475,Member475,Example,member00475@example.com,Silver,2026-10-12,,0.0,0,False,2026-10-12,Australia
+CQ00476,Member476,Example,member00476@example.com,Bronze,2024-01-01,2026-01-04,444.1,16,True,2026-10-12,Germany
+CQ00477,Member477,Example,member00477@example.com,Gold,2024-09-20,2026-01-08,5197.94,26,True,2026-10-12,Australia
+CQ00478,Member478,Example,member00478@example.com,Gold,2025-07-21,2026-03-09,530.54,3,True,2026-10-12,Canada
+CQ00479,Member479,Example,member00479@example.com,Bronze,2025-02-09,2026-09-26,1443.63,14,True,2026-10-12,United States
+CQ00480,Member480,Example,member00480@example.com,Gold,2025-11-08,2026-08-13,1933.05,24,False,2026-10-12,Germany
+CQ00481,Member481,Example,member00481@example.com,Silver,2024-10-23,2025-12-04,2410.07,20,True,2026-10-12,Canada
+CQ00482,Member482,Example,member00482@example.com,Bronze,2025-08-14,2026-09-12,802.25,18,True,2026-10-12,Germany
+CQ00483,Member483,Example,member00483@example.com,Bronze,2025-11-01,2026-04-30,1626.97,22,True,2026-10-12,Germany
+CQ00484,Member484,Example,member00484@example.com,Gold,2026-03-30,2026-09-08,5624.95,24,True,2026-10-12,United Kingdom
+CQ00485,Member485,Example,member00485@example.com,Bronze,2026-01-25,2026-08-06,340.91,7,False,2026-10-12,Canada
+CQ00486,Member486,Example,member00486@example.com,Silver,2024-07-29,2026-02-04,266.6,4,True,2026-10-12,Australia
+CQ00487,Member487,Example,member00487@example.com,Silver,2024-09-03,2026-02-23,322.84,2,True,2026-10-12,United States
+CQ00488,Member488,Example,member00488@example.com,Bronze,2024-07-08,2026-01-22,2543.47,23,True,2026-10-12,United Kingdom
+CQ00489,Member489,Example,member00489@example.com,Silver,2024-03-24,2026-02-05,1596.81,10,True,2026-10-12,United States
+CQ00490,Member490,Example,member00490@example.com,Silver,2024-03-17,2025-11-21,3292.1,21,False,2026-10-12,Germany
+CQ00491,Member491,Example,member00491@example.com,Gold,2024-07-19,2026-06-23,1850.59,13,True,2026-10-12,United Kingdom
+CQ00492,Member492,Example,member00492@example.com,Silver,2025-03-10,2026-04-23,1916.78,17,True,2026-10-12,Australia
+CQ00493,Member493,Example,member00493@example.com,Bronze,2024-11-07,2026-09-18,95.23,1,True,2026-10-12,Australia
+CQ00494,Member494,Example,member00494@example.com,Bronze,2026-09-08,2026-10-05,1680.59,27,True,2026-10-12,Australia
+CQ00495,Member495,Example,member00495@example.com,Silver,2025-08-23,2026-08-06,1389.96,28,False,2026-10-12,United Kingdom
+CQ00496,Member496,Example,member00496@example.com,Bronze,2026-04-03,2026-04-28,590.85,11,True,2026-10-12,Canada
+CQ00497,Member497,Example,member00497@example.com,Bronze,2026-06-27,2026-08-23,1734.37,20,True,2026-10-12,Canada
+CQ00498,Member498,Example,member00498@example.com,Gold,2024-05-15,2025-11-11,70.47,2,True,2026-10-12,Australia
+CQ00499,Member499,Example,member00499@example.com,Bronze,2026-05-05,2026-09-09,1525.65,18,True,2026-10-12,United States
+CQ00500,Member500,Example,member00500@example.com,Silver,2026-10-07,2026-10-12,99.04,1,False,2026-10-12,Canada
+CQ00501,Member501,Example,member00501@example.com,Gold,2024-08-18,2026-08-28,1320.08,23,True,2026-10-12,United Kingdom
+CQ00502,Member502,Example,member00502@example.com,Gold,2025-02-06,2026-08-03,2381.22,12,True,2026-10-12,Canada
+CQ00503,Member503,Example,member00503@example.com,Silver,2025-12-23,2026-09-07,1913.59,16,True,2026-10-12,Canada
+CQ00504,Member504,Example,member00504@example.com,Bronze,2024-04-23,2026-04-16,2107.68,23,True,2026-10-12,Australia
+CQ00505,Member505,Example,member00505@example.com,Gold,2024-04-18,2026-06-23,130.77,2,False,2026-10-12,United States
+CQ00506,Member506,Example,member00506@example.com,Bronze,2024-08-16,2026-04-16,394.39,13,True,2026-10-12,United Kingdom
+CQ00507,Member507,Example,member00507@example.com,Silver,2026-04-22,2026-08-10,2325.31,17,True,2026-10-12,United Kingdom
+CQ00508,Member508,Example,member00508@example.com,Silver,2026-08-18,2026-08-19,1937.4,27,True,2026-10-12,Germany
+CQ00509,Member509,Example,member00509@example.com,Bronze,2023-12-03,2026-07-08,1871.09,23,True,2026-10-12,Canada
+CQ00510,Member510,Example,member00510@example.com,Silver,2025-10-24,2026-08-16,819.41,7,False,2026-10-12,Germany
+CQ00511,Member511,Example,member00511@example.com,Bronze,2026-09-17,2026-10-01,102.98,1,True,2026-10-12,Germany
+CQ00512,Member512,Example,member00512@example.com,Silver,2024-06-02,2026-04-08,2434.78,17,True,2026-10-12,United States
+CQ00513,Member513,Example,member00513@example.com,Bronze,2026-09-07,,0.0,0,True,2026-10-12,United States
+CQ00514,Member514,Example,member00514@example.com,Silver,2024-07-18,2026-01-26,923.96,9,True,2026-10-12,Australia
+CQ00515,Member515,Example,member00515@example.com,Silver,2024-05-27,2026-03-21,216.67,2,False,2026-10-12,Canada
+CQ00516,Member516,Example,member00516@example.com,Bronze,2025-03-22,2026-08-31,981.3,9,True,2026-10-12,Canada
+CQ00517,Member517,Example,member00517@example.com,Silver,2024-12-11,2026-03-26,2778.33,18,True,2026-10-12,United States
+CQ00518,Member518,Example,member00518@example.com,Platinum,2025-01-14,2026-03-03,2708.91,23,True,2026-10-12,Canada
+CQ00519,Member519,Example,member00519@example.com,Silver,2026-04-18,2026-06-23,358.11,3,True,2026-10-12,United Kingdom
+CQ00520,Member520,Example,member00520@example.com,Gold,2025-10-17,,0.0,0,False,2026-10-12,Canada
+CQ00521,Member521,Example,member00521@example.com,Silver,2023-12-30,2026-04-18,2439.82,16,True,2026-10-12,United Kingdom
+CQ00522,Member522,Example,member00522@example.com,Gold,2025-11-04,2026-04-05,898.16,4,True,2026-10-12,United States
+CQ00523,Member523,Example,member00523@example.com,Silver,2026-08-12,2026-09-21,2654.94,25,True,2026-10-12,United Kingdom
+CQ00524,Member524,Example,member00524@example.com,Silver,2026-05-07,2026-06-07,470.3,14,True,2026-10-12,Germany
+CQ00525,Member525,Example,member00525@example.com,Gold,2026-10-07,2026-10-11,229.06,1,False,2026-10-12,United States
+CQ00526,Member526,Example,member00526@example.com,Bronze,2025-07-01,,0.0,0,True,2026-10-12,Canada
+CQ00527,Member527,Example,member00527@example.com,Bronze,2026-07-09,2026-08-13,345.08,11,True,2026-10-12,United States
+CQ00528,Member528,Example,member00528@example.com,Bronze,2024-06-05,2026-06-20,1085.22,10,True,2026-10-12,United Kingdom
+CQ00529,Member529,Example,member00529@example.com,Bronze,2025-04-04,2026-09-03,1202.95,18,True,2026-10-12,United States
+CQ00530,Member530,Example,member00530@example.com,Silver,2025-10-09,2026-06-20,802.97,25,False,2026-10-12,Australia
+CQ00531,Member531,Example,member00531@example.com,Bronze,2026-05-23,2026-06-15,2736.94,27,True,2026-10-12,United Kingdom
+CQ00532,Member532,Example,member00532@example.com,Bronze,2026-04-18,2026-05-24,510.55,14,True,2026-10-12,Germany
+CQ00533,Member533,Example,member00533@example.com,Silver,2025-01-27,2025-11-28,816.98,7,True,2026-10-12,Australia
+CQ00534,Member534,Example,member00534@example.com,Gold,2025-09-06,2026-01-06,1624.15,24,True,2026-10-12,Australia
+CQ00535,Member535,Example,member00535@example.com,Bronze,2026-08-24,2026-09-28,1714.23,17,False,2026-10-12,United States
+CQ00536,Member536,Example,member00536@example.com,Silver,2024-11-24,2026-10-12,3758.3,24,True,2026-10-12,United Kingdom
+CQ00537,Member537,Example,member00537@example.com,Platinum,2026-03-13,2026-08-21,2738.17,16,True,2026-10-12,United States
+CQ00538,Member538,Example,member00538@example.com,Bronze,2025-12-24,2026-05-22,79.14,2,True,2026-10-12,Germany
+CQ00539,Member539,Example,member00539@example.com,Platinum,2024-06-18,2026-04-05,1015.05,14,True,2026-10-12,United States
+CQ00540,Member540,Example,member00540@example.com,Bronze,2025-10-16,2025-11-20,1972.97,26,False,2026-10-12,United States
+CQ00541,Member541,Example,member00541@example.com,Bronze,2024-05-04,2025-11-07,170.18,4,True,2026-10-12,United Kingdom
+CQ00542,Member542,Example,member00542@example.com,Silver,2024-07-29,2026-04-28,612.1,10,True,2026-10-12,Canada
+CQ00543,Member543,Example,member00543@example.com,Bronze,2026-01-06,2026-08-18,246.18,4,True,2026-10-12,United Kingdom
+CQ00544,Member544,Example,member00544@example.com,Bronze,2024-07-01,2026-08-12,1595.64,17,True,2026-10-12,Australia
+CQ00545,Member545,Example,member00545@example.com,Gold,2025-01-18,2026-02-17,436.97,8,False,2026-10-12,United Kingdom
+CQ00546,Member546,Example,member00546@example.com,Gold,2026-07-21,2026-09-15,1746.84,26,True,2026-10-12,Canada
+CQ00547,Member547,Example,member00547@example.com,Bronze,2024-10-13,2026-03-24,741.73,16,True,2026-10-12,Canada
+CQ00548,Member548,Example,member00548@example.com,Silver,2026-08-09,2026-08-22,3805.71,27,True,2026-10-12,Canada
+CQ00549,Member549,Example,member00549@example.com,Gold,2026-04-01,2026-06-16,196.01,3,True,2026-10-12,United States
+CQ00550,Member550,Example,member00550@example.com,Gold,2026-10-09,,0.0,0,False,2026-10-12,United States
+CQ00551,Member551,Example,member00551@example.com,Platinum,2025-04-29,,0.0,0,True,2026-10-12,Australia
+CQ00552,Member552,Example,member00552@example.com,Gold,2026-01-21,2026-08-26,5894.8,28,True,2026-10-12,United States
+CQ00553,Member553,Example,member00553@example.com,Bronze,2026-07-16,2026-08-14,74.07,1,True,2026-10-12,Australia
+CQ00554,Member554,Example,member00554@example.com,Silver,2023-12-30,2026-09-27,621.42,12,True,2026-10-12,Canada
+CQ00555,Member555,Example,member00555@example.com,Silver,2025-09-23,2026-05-25,384.3,8,False,2026-10-12,Germany
+CQ00556,Member556,Example,member00556@example.com,Silver,2025-05-26,2025-11-15,1456.48,9,True,2026-10-12,Australia
+CQ00557,Member557,Example,member00557@example.com,Bronze,2026-06-09,2026-10-01,467.9,8,True,2026-10-12,Germany
+CQ00558,Member558,Example,member00558@example.com,Silver,2025-05-19,2025-11-24,700.68,25,True,2026-10-12,Australia
+CQ00559,Member559,Example,member00559@example.com,Gold,2024-10-06,2026-02-09,1864.14,17,True,2026-10-12,Germany
+CQ00560,Member560,Example,member00560@example.com,Bronze,2023-12-18,2026-05-01,226.51,12,False,2026-10-12,Germany
+CQ00561,Member561,Example,member00561@example.com,Gold,2025-07-20,2026-09-27,2686.95,28,True,2026-10-12,Australia
+CQ00562,Member562,Example,member00562@example.com,Silver,2023-10-23,2026-04-12,1465.88,24,True,2026-10-12,Canada
+CQ00563,Member563,Example,member00563@example.com,Bronze,2026-03-20,2026-08-10,1470.4,21,True,2026-10-12,United States
+CQ00564,Member564,Example,member00564@example.com,Platinum,2025-07-19,2025-12-22,4371.04,27,True,2026-10-12,Canada
+CQ00565,Member565,Example,member00565@example.com,Bronze,2025-10-16,2026-06-13,1631.05,18,False,2026-10-12,United Kingdom
+CQ00566,Member566,Example,member00566@example.com,Bronze,2026-08-15,2026-08-28,1615.7,22,True,2026-10-12,Canada
+CQ00567,Member567,Example,member00567@example.com,Bronze,2025-09-21,2026-02-02,1116.24,17,True,2026-10-12,United States
+CQ00568,Member568,Example,member00568@example.com,Bronze,2026-06-18,2026-09-13,1316.5,19,True,2026-10-12,United States
+CQ00569,Member569,Example,member00569@example.com,Gold,2024-12-01,2025-12-02,653.67,6,True,2026-10-12,Canada
+CQ00570,Member570,Example,member00570@example.com,Silver,2025-10-13,2026-10-01,668.68,4,False,2026-10-12,United States
+CQ00571,Member571,Example,member00571@example.com,Bronze,2023-10-30,2026-04-09,222.3,2,True,2026-10-12,Australia
+CQ00572,Member572,Example,member00572@example.com,Bronze,2026-03-19,2026-07-18,1031.11,9,True,2026-10-12,Australia
+CQ00573,Member573,Example,member00573@example.com,Bronze,2024-01-18,2025-11-14,1138.51,10,True,2026-10-12,Germany
+CQ00574,Member574,Example,member00574@example.com,Silver,2024-10-11,2026-06-20,1095.77,21,True,2026-10-12,United Kingdom
+CQ00575,Member575,Example,member00575@example.com,Bronze,2026-10-10,2026-10-12,173.95,2,False,2026-10-12,Germany
+CQ00576,Member576,Example,member00576@example.com,Bronze,2024-08-01,2025-12-26,48.31,1,True,2026-10-12,Germany
+CQ00577,Member577,Example,member00577@example.com,Bronze,2025-07-16,2025-11-19,1192.33,18,True,2026-10-12,United Kingdom
+CQ00578,Member578,Example,member00578@example.com,Platinum,2026-05-05,2026-08-13,1066.37,11,True,2026-10-12,United States
+CQ00579,Member579,Example,member00579@example.com,Bronze,2024-11-23,,0.0,0,True,2026-10-12,United States
+CQ00580,Member580,Example,member00580@example.com,Bronze,2024-10-24,2026-06-03,409.48,25,False,2026-10-12,Australia
+CQ00581,Member581,Example,member00581@example.com,Gold,2024-04-27,2026-03-12,709.99,5,True,2026-10-12,Australia
+CQ00582,Member582,Example,member00582@example.com,Bronze,2024-10-22,2026-01-06,774.7,12,True,2026-10-12,Germany
+CQ00583,Member583,Example,member00583@example.com,Bronze,2025-07-07,2026-07-21,1420.45,14,True,2026-10-12,United Kingdom
+CQ00584,Member584,Example,member00584@example.com,Platinum,2026-08-31,2026-09-22,554.82,8,True,2026-10-12,Canada
+CQ00585,Member585,Example,member00585@example.com,Bronze,2024-09-03,2026-07-22,2556.22,23,False,2026-10-12,United States
+CQ00586,Member586,Example,member00586@example.com,Gold,2024-11-18,2025-12-12,3569.67,19,True,2026-10-12,Australia
+CQ00587,Member587,Example,member00587@example.com,Silver,2025-11-08,2025-12-06,932.43,28,True,2026-10-12,United Kingdom
+CQ00588,Member588,Example,member00588@example.com,Silver,2025-08-17,2026-07-07,1779.91,13,True,2026-10-12,Germany
+CQ00589,Member589,Example,member00589@example.com,Bronze,2025-04-16,2025-11-08,233.22,9,True,2026-10-12,Australia
+CQ00590,Member590,Example,member00590@example.com,Bronze,2024-01-10,2026-07-26,59.33,1,False,2026-10-12,United Kingdom
+CQ00591,Member591,Example,member00591@example.com,Bronze,2024-02-01,2026-07-02,100.38,3,True,2026-10-12,United Kingdom
+CQ00592,Member592,Example,member00592@example.com,Bronze,2026-04-27,2026-06-13,2573.81,27,True,2026-10-12,Australia
+CQ00593,Member593,Example,member00593@example.com,Bronze,2024-01-14,2025-11-08,568.57,8,True,2026-10-12,Canada
+CQ00594,Member594,Example,member00594@example.com,Bronze,2024-09-12,2026-03-31,228.2,11,True,2026-10-12,Australia
+CQ00595,Member595,Example,member00595@example.com,Gold,2024-03-03,2026-05-31,1102.09,7,False,2026-10-12,Canada
+CQ00596,Member596,Example,member00596@example.com,Bronze,2026-03-27,2026-09-21,1486.82,21,True,2026-10-12,Germany
+CQ00597,Member597,Example,member00597@example.com,Gold,2025-07-03,2026-01-02,212.59,1,True,2026-10-12,Australia
+CQ00598,Member598,Example,member00598@example.com,Bronze,2024-02-12,2025-12-23,1298.06,28,True,2026-10-12,Australia
+CQ00599,Member599,Example,member00599@example.com,Platinum,2026-08-01,2026-08-09,5098.19,18,True,2026-10-12,Germany
+CQ00600,Member600,Example,member00600@example.com,Platinum,2025-11-05,2026-02-25,483.65,5,False,2026-10-12,Canada
+CQ00041,Member041,Example,missing-at-sign,Platinum,2025-03-06,2026-03-10,7494.34,22,True,2026-10-12,Germany
+CQ00042,Member042,Example,member00042@example.com,Bronze,2024-01-19,2026-07-25,-40,6,True,2026-10-12,Germany
+CQ00043,Member043,Example,member00043@example.com,Diamond,2026-06-09,2026-07-09,751.06,10,True,2026-10-12,Germany
+CQ00044,Member044,Example,member00044@example.com,Platinum,not-a-date,2026-07-24,71.09,1,True,2026-10-12,Canada
+CQ00045,Member045,Example,member00045@example.com,Gold,2026-05-24,2026-09-25,2575.01,2.5,False,2026-10-12,Germany
+CQ00046,Member046,Example,member00046@example.com,Bronze,2025-05-25,2025-12-20,465.69,19,maybe,2026-10-12,Germany

@@ -1,0 +1,12 @@
+Subject: Welcome to the community, $first_name
+
+Hi $first_name,
+
+We're glad you're here. Your $membership_tier membership is ready, and we'd love to help you discover your next favorite.
+
+Explore your member benefits and make yourself at home.
+
+See you soon,
+The $brand team
+
+Demo draft only. Add your preference-center link and business details before using a template outside this application.
